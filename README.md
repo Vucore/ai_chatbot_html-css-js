@@ -1,2 +1,3 @@
 # ai_chatbot_html-css-js
-chatbot
+ChatBot
+![alt text](demo/image.png)
